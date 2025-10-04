@@ -180,4 +180,4 @@ Para
   ## 🔐 Manejo de Errores
 
 - [ ] Se devuelve código HTTP 500 o 503 cuando no hay conexión a la base de datos.
-- [ ] El campo `mensaje` en el JSON i
+- [ ] El campo `mensaje` en el JSON incluye un texto amigable y claro para el usuario técnico o frontend.
